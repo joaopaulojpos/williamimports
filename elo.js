@@ -2,7 +2,7 @@ function calculo(val1, val2) {
   valor_compra = parseInt(val1);
   valor_entrada = val2;
 
-  var taxas = [3.85, 5.76, 6.58, 7.04, 8.24, 9.07, 10.27, 11.13, 11.97, 12.85, 13.71, 14.57, 16.11, 16.99, 17.89, 18.78, 19.69, 20.06];
+  var taxas = [4.00, 5.38, 6.26, 7.12, 7.97, 8.82, 9.65, 10.47, 11.28, 12.09, 12.88, 13.66]
   let taxa_debito = 1.84;
   var valor_parcelas = [];
   var valor_total = [];
